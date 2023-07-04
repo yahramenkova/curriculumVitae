@@ -10,4 +10,10 @@
     * [telegram](https://t.me/yahramenkova)
     * [vk](https://vk.com/yahramenkova)
 > ### About me:
-## I am a creative person with a great interest in the field of information technology. Although I have no experience in the IT industry, I was previously engaged in drawing and went to art school. This allowed me to develop creative thinking, visual perception and attention to detail.I am attracted to creative directions in IT, as they provide an opportunity to combine my love of art with the opportunities offered by modern technology.
+#### I am a creative person with a great interest in the field of information technology. Although I have no experience in the IT industry, I was previously engaged in drawing and went to art school. This allowed me to develop creative thinking, visual perception and attention to detail.I am attracted to creative directions in IT, as they provide an opportunity to combine my love of art with the opportunities offered by modern technology.
+### Skills:
+* Programming Languages: C#, JavaScript
+* SQL Server: Studied SQL Server and its basics, including database creation, SQL query writing, data management and query optimization
+* VS Code, Visual Studio
+* Version Control Systems: Git
+* Frameworks: .NET Framework
