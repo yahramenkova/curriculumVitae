@@ -18,7 +18,7 @@
 * Version Control Systems: Git
 * Frameworks: .NET Framework
 > ### Code Examples:
-Пример кода на C# (вычисление факториала числа):
+```Пример кода на C# (вычисление факториала числа):
 using System;
 
 class Program
@@ -38,7 +38,8 @@ class Program
         Console.WriteLine("Факториал числа " + num + " равен " + result);
     }
 }
-Пример кода на JavaScript(cортировка пузырьком (Bubble Sort)):
+```
+```Пример кода на JavaScript(cортировка пузырьком (Bubble Sort)):
 function bubbleSort(array) {
   const length = array.length;
   for (let i = 0; i < length - 1; i++) {
@@ -53,6 +54,6 @@ function bubbleSort(array) {
 }
 
 const numbers = [5, 3, 8, 4, 2];
-console.log(bubbleSort(numbers)); // [2, 3, 4, 5, 8]
+console.log(bubbleSort(numbers)); // [2, 3, 4, 5, 8]```
 
 
