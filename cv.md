@@ -18,7 +18,9 @@
 * Version Control Systems: Git
 * Frameworks: .NET Framework
 > ### Code Examples:
-```//Пример кода на C# (вычисление факториала числа):
+```
+C#
+//Пример кода на C# (вычисление факториала числа):
 using System;
 
 class Program
@@ -39,7 +41,9 @@ class Program
     }
 }
 ```
-```//Пример кода на JavaScript(cортировка пузырьком (Bubble Sort)):
+```
+JavaScript
+//Пример кода на JavaScript(cортировка пузырьком (Bubble Sort)):
 function bubbleSort(array) {
   const length = array.length;
   for (let i = 0; i < length - 1; i++) {
@@ -58,10 +62,14 @@ console.log(bubbleSort(numbers)); // [2, 3, 4, 5, 8]
 ```
 
 > ### Work Experience:
-
 - CV Project
   - Created a comprehensive CV using Markdown language to showcase skills, educational background, and aspirations.
   - Demonstrated proficiency in organizing information, utilizing formatting techniques, and presenting content effectively.
   - Highlighted personal strengths, motivation, and commitment to learning and embracing new challenges.
   - Leveraged creativity to design a visually appealing and professional CV layout.
+> ### Courses and Training
+- .NET Development - Epam
+
+> ### English Level
+- B1
 
