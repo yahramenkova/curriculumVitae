@@ -9,3 +9,5 @@
     * [instagram](https://www.instagram.com/yahramenkova/)
     * [telegram](https://t.me/yahramenkova)
     * [vk](https://vk.com/yahramenkova)
+> ### About me:
+## I am a creative person with a great interest in the field of information technology. Although I have no experience in the IT industry, I was previously engaged in drawing and went to art school. This allowed me to develop creative thinking, visual perception and attention to detail.I am attracted to creative directions in IT, as they provide an opportunity to combine my love of art with the opportunities offered by modern technology.
