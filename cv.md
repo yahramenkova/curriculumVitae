@@ -18,8 +18,7 @@
 * Version Control Systems: Git
 * Frameworks: .NET Framework
 > ### Code Examples:
-```
-C#
+```c#
 //Пример кода на C# (вычисление факториала числа):
 using System;
 
@@ -41,8 +40,7 @@ class Program
     }
 }
 ```
-```
-JavaScript
+```JavaScript
 //Пример кода на JavaScript(cортировка пузырьком (Bubble Sort)):
 function bubbleSort(array) {
   const length = array.length;
