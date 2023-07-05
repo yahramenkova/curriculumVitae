@@ -21,7 +21,8 @@
 * Frameworks: .NET Framework
 
 > ### Code Examples:
-```c#
+
+```csharp
 //Пример кода на C# (вычисление факториала числа):
 using System;
 
@@ -44,6 +45,7 @@ class Program
 }
 
 ```
+
 ```JavaScript
 //Пример кода на JavaScript(cортировка пузырьком (Bubble Sort)):
 function bubbleSort(array) {
@@ -63,6 +65,7 @@ const numbers = [5, 3, 8, 4, 2];
 console.log(bubbleSort(numbers)); // [2, 3, 4, 5, 8]
 
 ```
+
 > ### Work Experience:
 - CV Project
   - Created a comprehensive CV using Markdown language to showcase skills, educational background, and aspirations.
